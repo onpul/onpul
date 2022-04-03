@@ -11,10 +11,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onpul&layout=compact)
 
 #### Stack
-<img src="https://img.shields.io/badge/java-007396?logo=java&logoColor=white"> 
-<img src="https://img.shields.io/badge/oracle-F80000?logo=oracle&logoColor=white"> 
-<img src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/css-1572B6?logo=css3&logoColor=white"> 
-<img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white">
-
+<div>
+  <img src="https://img.shields.io/badge/java-007396?logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/oracle-F80000?logo=oracle&logoColor=white"> 
+  <img src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white">
+</div>
