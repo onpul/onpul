@@ -7,7 +7,7 @@
 
 #### Dev log
 ![onpul's GitHub stats](https://github-readme-stats.vercel.app/api?username=onpul&theme=vue&show_icons=true)
-![onpul's GitHub stats](https://github-readme-stats.vercel.app/api?username=onpul&count_private=true&custom_title="onpul's GitHub stats"&title_color=#2e8b57)
+[![onpul's github stats](https://github-readme-stats.vercel.app/api?username=onpul&count_private=true&custom_title=onpul's&nbsp;github&nbsp;👀&title_color=2e8b57&text_color=2e8b57)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onpul&layout=compact)
 
 #### Stack
