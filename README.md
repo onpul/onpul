@@ -7,7 +7,7 @@
 
 #### Dev log
 ![onpul's github stats](https://github-readme-stats.vercel.app/api?username=onpul&count_private=true&custom_title=onpul's&nbsp;github&nbsp;👀&title_color=2e8b57&text_color=gray)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onpul&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onpul&layout=compact&custom_title=My&nbsp;Language&nbsp;&title_color=2e8b57&text_color=gray)
 
 #### Stack
 <div>
