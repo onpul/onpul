@@ -4,7 +4,7 @@
 
 #### ✨ Blog & Email
 [![Blog Badge](https://img.shields.io/badge/-온풀투데이-2e8b57?logo=Gumtree&logoColor=white&link=https://onpul.tistory.com/)](https://onpul.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chmj072@gmail.com)](mailto:chmj072@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:chmj072@gmail.com)](mailto:chmj072@gmail.com)
 
 #### ✨ Dev log
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onpul&theme=vue&show_icons=true)
