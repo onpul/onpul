@@ -3,7 +3,7 @@
 
 #### Blog & Email
 [![Blog Badge](https://img.shields.io/badge/-온풀투데이-2e8b57?logo=Gumtree&logoColor=white&link=https://onpul.tistory.com/)](https://onpul.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:chmj072@gmail.com)](mailto:chmj072@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:mjchoi.atwork@gmail.com)](mailto:mjchoi.atwork@gmail.com)
 
 #### Dev log
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onpul&layout=compact&custom_title=My&nbsp;Language&nbsp;&title_color=2e8b57&text_color=gray)
